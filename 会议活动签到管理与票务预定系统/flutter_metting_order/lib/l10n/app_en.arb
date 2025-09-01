@@ -1,0 +1,296 @@
+{
+    "appTitle": "Meeting Order",
+    "@appTitle": {
+        "description": "The title of the application"
+    },
+
+    "home": "Home",
+    "@home": {
+        "description": "Label for home tab"
+    },
+
+    "events": "Events",
+    "@events": {
+        "description": "Label for events tab"
+    },
+
+    "tickets": "Tickets",
+    "@tickets": {
+        "description": "Label for tickets tab"
+    },
+
+    "profile": "Profile",
+    "@profile": {
+        "description": "Label for profile tab"
+    },
+
+    "upcomingTickets": "Upcoming Tickets",
+    "@upcomingTickets": {
+        "description": "Title for upcoming tickets section"
+    },
+
+    "recommendedEvents": "Recommended Events",
+    "@recommendedEvents": {
+        "description": "Title for recommended events section"
+    },
+
+    "viewAll": "View All",
+    "@viewAll": {
+        "description": "Text for view all button"
+    },
+
+    "noUpcomingTickets": "No upcoming tickets",
+    "@noUpcomingTickets": {
+        "description": "Message shown when no upcoming tickets are found"
+    },
+
+    "noRecommendedEvents": "No recommended events",
+    "@noRecommendedEvents": {
+        "description": "Message shown when no recommended events are found"
+    },
+
+    "signIn": "Sign In",
+    "@signIn": {
+        "description": "Text for sign in button"
+    },
+
+    "signInRequired": "Please sign in to view your profile",
+    "@signInRequired": {
+        "description": "Message shown when user needs to sign in"
+    },
+
+    "all": "All",
+    "@all": {
+        "description": "Label for all tickets tab"
+    },
+
+    "upcoming": "Upcoming",
+    "@upcoming": {
+        "description": "Label for upcoming tickets tab"
+    },
+
+    "past": "Past",
+    "@past": {
+        "description": "Label for past tickets tab"
+    },
+
+    "noTickets": "No tickets found",
+    "@noTickets": {
+        "description": "Message shown when no tickets are found"
+    },
+
+    "searchEvents": "Search events...",
+    "noEvents": "No events available",
+    "noEventsFound": "No events found for \"{query}\"",
+    "invalidTicket": "Invalid ticket QR code",
+    "ticketVerified": "Ticket verified successfully",
+    "ticketVerificationFailed": "Failed to verify ticket: {error}",
+    "retry": "Retry",
+    "@retry": {
+        "description": "Text for retry button"
+    },
+
+    "announcements": "Announcements",
+    "@announcements": {
+        "description": "Title for announcements screen"
+    },
+
+    "noAnnouncements": "No announcements available",
+    "@noAnnouncements": {
+        "description": "Message shown when no announcements are found"
+    },
+
+    "attachments": "Attachments",
+    "@attachments": {
+        "description": "Label for attachments"
+    },
+
+    "changePassword": "Change Password",
+    "@changePassword": {
+        "description": "Title for change password dialog"
+    },
+    "currentPassword": "Current Password",
+    "@currentPassword": {
+        "description": "Label for current password field"
+    },
+    "newPassword": "New Password",
+    "@newPassword": {
+        "description": "Label for new password field"
+    },
+    "confirmPassword": "Confirm Password",
+    "@confirmPassword": {
+        "description": "Label for confirm password field"
+    },
+    "enterCurrentPassword": "Please enter your current password",
+    "@enterCurrentPassword": {
+        "description": "Error message for empty current password"
+    },
+    "enterNewPassword": "Please enter a new password",
+    "@enterNewPassword": {
+        "description": "Error message for empty new password"
+    },
+    "passwordLength": "Password must be at least 6 characters",
+    "@passwordLength": {
+        "description": "Error message for password length"
+    },
+    "passwordsDoNotMatch": "Passwords do not match",
+    "@passwordsDoNotMatch": {
+        "description": "Error message for password mismatch"
+    },
+    "passwordChanged": "Password changed successfully",
+    "@passwordChanged": {
+        "description": "Success message for password change"
+    },
+    "passwordChangeFailed": "Failed to change password",
+    "@passwordChangeFailed": {
+        "description": "Error message for password change failure"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Text for cancel button"
+    },
+    "save": "Save",
+    "@save": {
+        "description": "Text for save button"
+    },
+    "accountInfo": "Account Information",
+    "@accountInfo": {
+        "description": "Title for account information section"
+    },
+    "username": "Username",
+    "@username": {
+        "description": "Label for username field"
+    },
+    "email": "Email",
+    "@email": {
+        "description": "Label for email field"
+    },
+    "preferences": "Preferences",
+    "@preferences": {
+        "description": "Title for preferences section"
+    },
+    "darkMode": "Dark Mode",
+    "@darkMode": {
+        "description": "Label for dark mode toggle"
+    },
+    "language": "Language",
+    "@language": {
+        "description": "Label for language selection"
+    },
+
+    "aboutThisEvent": "About This Event",
+    "@aboutThisEvent": {
+        "description": "Title for event description section"
+    },
+
+    "speakers": "Speakers",
+    "@speakers": {
+        "description": "Title for speakers section"
+    },
+
+    "tags": "Tags",
+    "@tags": {
+        "description": "Title for tags section"
+    },
+
+    "reserveTicket": "Reserve Ticket",
+    "@reserveTicket": {
+        "description": "Text for reserve ticket button"
+    },
+
+    "pleaseSignInToReserve": "Please sign in to reserve tickets",
+    "@pleaseSignInToReserve": {
+        "description": "Message shown when user needs to sign in to reserve tickets"
+    },
+
+    "ticketDetails": "Ticket Details",
+    "@ticketDetails": {
+        "description": "Title for ticket details section"
+    },
+
+    "pricePerTicket": "Price per ticket",
+    "@pricePerTicket": {
+        "description": "Label for price per ticket"
+    },
+
+    "quantity": "Quantity",
+    "@quantity": {
+        "description": "Label for ticket quantity"
+    },
+
+    "total": "Total",
+    "@total": {
+        "description": "Label for total price"
+    },
+
+    "paymentMethod": "Payment Method",
+    "@paymentMethod": {
+        "description": "Title for payment method section"
+    },
+
+    "creditCard": "Credit Card",
+    "@creditCard": {
+        "description": "Label for credit card payment option"
+    },
+
+    "bankTransfer": "Bank Transfer",
+    "@bankTransfer": {
+        "description": "Label for bank transfer payment option"
+    },
+
+    "paypal": "PayPal",
+    "@paypal": {
+        "description": "Label for PayPal payment option"
+    },
+
+    "confirmReservation": "Confirm Reservation",
+    "@confirmReservation": {
+        "description": "Text for confirm reservation button"
+    },
+
+    "paymentNote": "Note: This is a demo app. No actual payment will be processed.",
+    "@paymentNote": {
+        "description": "Note about payment being a demo"
+    },
+
+    "ticketReservedSuccessfully": "Ticket Reserved Successfully!",
+    "@ticketReservedSuccessfully": {
+        "description": "Success message for ticket reservation"
+    },
+
+    "ticketReservedFor": "Your ticket for {event} has been reserved.",
+    "@ticketReservedFor": {
+        "description": "Message showing which event ticket was reserved for",
+        "placeholders": {
+            "event": {
+                "type": "String",
+                "example": "Annual Conference"
+            }
+        }
+    },
+
+    "ticketId": "Ticket ID",
+    "@ticketId": {
+        "description": "Label for ticket ID"
+    },
+
+    "confirmPayment": "Confirm Payment",
+    "@confirmPayment": {
+        "description": "Text for confirm payment button"
+    },
+
+    "backToHome": "Back to Home",
+    "@backToHome": {
+        "description": "Text for back to home button"
+    },
+
+    "paymentConfirmed": "Payment confirmed successfully!",
+    "@paymentConfirmed": {
+        "description": "Success message for payment confirmation"
+    },
+
+    "paymentFailed": "Failed to confirm payment",
+    "@paymentFailed": {
+        "description": "Error message for payment confirmation failure"
+    }
+} 
